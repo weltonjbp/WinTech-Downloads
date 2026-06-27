@@ -1,6 +1,6 @@
 {
-    "version": "2.0.6",
-    "url": "https://github.com/weltonjbp/WinTech-Downloads/releases/download/2.0.6/WinTech_Ultimate_GUI.exe",
-    "sha256": "579b22e43792bd38e41162a8ca6954aaa220dcd9e127fd20840a4f9cef87c241",
+    "version": "2.0.7",
+    "url": "https://github.com/weltonjbp/WinTech-Downloads/releases/download/2.0.7/WinTech_Ultimate_GUI.exe",
+    "sha256": "864b198811ce895e1e095b73705819f06f619e00a19510ded54e653650e99bfd",
     "changelog": "- Nova funcionalidade adicionada.\n- Correção de bugs de performance."
 }
