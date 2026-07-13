@@ -1,6 +1,6 @@
 {
-    "version": "2.0.1.11",
-    "url": "https://github.com/weltonjbp/WinTech-Downloads/releases/download/2.0.1.11/WinTech.exe",
-    "sha256": "c6f8170b08a07c57ce492167455ef2b52165fe99bf158f0e3d49dd46f00748e0",
+    "version": "2.0.1.12",
+    "url": "https://github.com/weltonjbp/WinTech-Downloads/releases/download/2.0.1.12/WinTech.exe",
+    "sha256": "5a3d776630e2ae22ce46aeef5a0e8cee4e763caf0a61469edf0df5bae13a295d",
     "changelog": "- Nova funcionalidade adicionada.\n- Correção de bugs de performance."
 }
